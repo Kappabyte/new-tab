@@ -67,7 +67,7 @@ const CONFIG = {
 			id: '3',
 			name: 'My UCalgary',
 			icon: 'graduation-cap',
-			link: 'https://my.ucalgary.com',
+			link: 'https://my.ucalgary.ca',
 		},
 		{
 			id: '4',
